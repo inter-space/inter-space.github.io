@@ -194,7 +194,7 @@ img{
 	width: 100%;
 }
 .header-overlay{
-	background-color: rgba(0, 0, 0, 0.6);
+	background-color: rgba(0, 0, 0, 0);
 	height: 100%;
 	left: 0;
 	position: absolute;
@@ -205,22 +205,23 @@ img{
 .header-content {
 	float: left;
 	height: 100%;
-	padding: 12% 140px 140px;
+	padding: 1.5% 180px 140px;
 	text-align: center;
-	width: 100%;
+	width: 85%;
 }
 .header-content h2 {
-	font-size: 80px;
+	font-size: 35px;
 	font-weight: bold;
 	text-transform: uppercase;
-	line-height: 80px;
+	line-height: 30px;
+	color: #000000;
 }
 .header-content h2 span {
 	font-weight: normal;
-	line-height: 93px;
+	line-height: 35px;
 }
 .header-btn-area{
-	margin-top: 90px;
+	margin-top: 300px;
 	float: left;
 	display: inline;
 	width: 100%;
