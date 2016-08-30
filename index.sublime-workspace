@@ -1,0 +1,564 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fl",
+				"float"
+			],
+			[
+				"d",
+				"div	Tag"
+			],
+			[
+				"t",
+				"type	Attr"
+			],
+			[
+				"f",
+				"f0f0f0"
+			],
+			[
+				"sta",
+				"standard_id"
+			],
+			[
+				"st",
+				"standard_id"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"add",
+				"additional_fees"
+			],
+			[
+				"fee",
+				"fees_name"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"filt",
+				"filter_roll_no"
+			],
+			[
+				"es",
+				"escape"
+			],
+			[
+				"school",
+				"school"
+			],
+			[
+				"parent",
+				"parent_name"
+			],
+			[
+				"All",
+				"ftp_alloc"
+			],
+			[
+				"displa",
+				"display_data"
+			],
+			[
+				"ex",
+				"exit"
+			],
+			[
+				"i",
+				"inline-block"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"s",
+				"style	Attr"
+			],
+			[
+				"CLA",
+				"class"
+			],
+			[
+				"stat",
+				"status"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"form",
+				"formuser"
+			],
+			[
+				"php",
+				"phpinfo"
+			],
+			[
+				"els",
+				"else"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"l",
+				"li	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/school/admin/view/template/catalog/standard_form.tpl",
+		"/C/xampp/htdocs/school/admin/view/template/catalog/student_list.tpl",
+		"/C/xampp/htdocs/school/admin/view/stylesheet/bootstrap.css",
+		"/C/xampp/htdocs/school/admin/language/en-gb/catalog/trustfee.php",
+		"/C/xampp/htdocs/school/admin/controller/catalog/trustfee.php",
+		"/C/xampp/htdocs/school/admin/model/catalog/trustfee.php",
+		"/C/xampp/htdocs/school/admin/view/template/catalog/trustfee.tpl",
+		"/C/xampp/htdocs/school/admin/view/template/report/classbus.tpl",
+		"/C/xampp/htdocs/school/admin/language/en-gb/common/footer.php",
+		"/C/xampp/htdocs/school/admin/view/template/report/schoolmonthly.tpl",
+		"/C/xampp/htdocs/school/admin/view/template/report/standardbus.tpl",
+		"/C/xampp/htdocs/school/admin/view/template/report/schoolmartial.tpl",
+		"/C/xampp/htdocs/school/admin/controller/report/schoolbus.php",
+		"/C/xampp/htdocs/school/admin/view/template/report/schoolbus.tpl",
+		"/C/xampp/htdocs/school/admin/controller/common/menu.php",
+		"/C/xampp/htdocs/school/admin/view/template/common/menu.tpl",
+		"/C/xampp/htdocs/school/admin/language/en-gb/report/schoolbus.php",
+		"/C/xampp/htdocs/school/admin/language/en-gb/report/standardbus.php",
+		"/C/xampp/htdocs/school/admin/language/en-gb/report/classbus.php",
+		"/C/xampp/htdocs/school/admin/controller/report/classbus.php",
+		"/C/xampp/htdocs/school/admin/controller/report/standardbus.php",
+		"/C/xampp/htdocs/school/admin/controller/report/classmartial.php",
+		"/C/xampp/htdocs/school/admin/controller/report/schoolmartial.php",
+		"/C/xampp/htdocs/school/admin/view/template/report/classmartial.tpl",
+		"/C/xampp/htdocs/school/admin/controller/report/standardmartial.php",
+		"/C/xampp/htdocs/school/admin/view/template/report/standardmartial.tpl",
+		"/C/xampp/htdocs/school/admin/view/template/report/classmonthly.tpl",
+		"/C/xampp/htdocs/school/admin/view/template/report/class.tpl",
+		"/C/xampp/htdocs/school/admin/view/template/report/standard.tpl",
+		"/C/xampp/htdocs/school/admin/controller/report/class.php",
+		"/C/xampp/htdocs/school/admin/language/en-gb/report/classmartial.php",
+		"/C/xampp/htdocs/school/admin/language/en-gb/report/class.php",
+		"/C/xampp/htdocs/school/admin/language/en-gb/report/schoolmartial.php",
+		"/C/xampp/htdocs/school/admin/language/en-gb/report/standardmartial.php",
+		"/C/xampp/htdocs/school/admin/controller/report/standardmonthly.php",
+		"/C/xampp/htdocs/school/admin/controller/report/classmonthly.php",
+		"/C/xampp/htdocs/school/admin/view/template/report/standardmonthly.tpl",
+		"/C/xampp/htdocs/school/admin/controller/report/schoolmonthly.php",
+		"/C/xampp/htdocs/school/admin/language/en-gb/report/classmonthly.php",
+		"/C/xampp/htdocs/school/admin/language/en-gb/report/schoolmonthly.php",
+		"/C/xampp/htdocs/school/admin/language/en-gb/report/standard.php",
+		"/C/xampp/htdocs/school/admin/language/en-gb/report/standardmonthly.php",
+		"/C/xampp/htdocs/inter-space.github.io/index.html",
+		"/C/xampp/php/php.ini-development",
+		"/C/xampp/htdocs/inter-space.github.io/style.css",
+		"/C/xampp/php/php.ini-production",
+		"/C/xampp/htdocs/balaji/admin/config.php",
+		"/C/xampp/htdocs/balaji/config.php",
+		"/C/xampp/htdocs/school/config.php",
+		"/C/xampp/htdocs/school/admin/view/template/catalog/notice_form.tpl",
+		"/C/xampp/htdocs/school/admin/controller/catalog/notice.php",
+		"/C/xampp/htdocs/school/admin/model/catalog/notice.php",
+		"/C/xampp/htdocs/school/admin/language/en-gb/catalog/student.php",
+		"/C/xampp/htdocs/school/admin/view/template/catalog/notice_list.tpl",
+		"/C/xampp/htdocs/school/admin/model/catalog/standard.php",
+		"/C/xampp/htdocs/school/admin/language/en-gb/catalog/notice.php",
+		"/C/xampp/htdocs/school/admin/model/catalog/fees.php",
+		"/C/xampp/htdocs/school/admin/controller/catalog/fees.php",
+		"/C/xampp/htdocs/school/admin/view/template/catalog/fees.tpl",
+		"/C/xampp/htdocs/school/admin/model/catalog/fee.php",
+		"/C/xampp/htdocs/school/admin/controller/catalog/fee.php",
+		"/C/xampp/htdocs/school/admin/language/en-gb/catalog/fee.php",
+		"/C/xampp/htdocs/school/admin/view/template/catalog/fee.tpl",
+		"/C/xampp/htdocs/school/admin/view/template/catalog/attendance.tpl",
+		"/C/xampp/htdocs/school/admin/controller/catalog/standard.php",
+		"/C/xampp/htdocs/school/admin/view/template/catalog/fee_list.html",
+		"/C/xampp/htdocs/school/admin/view/template/catalog/fees_list.html",
+		"/C/xampp/htdocs/school/admin/view/template/catalog/fees_form.tpl",
+		"/C/Users/User/Desktop/New folder/hyperspace/index.html",
+		"/C/xampp/htdocs/school/admin/view/template/catalog/standard_list.tpl",
+		"/C/xampp/htdocs/sms/test.php",
+		"/C/xampp/htdocs/school/admin/language/en-gb/catalog/standard.php",
+		"/C/xampp/htdocs/school/admin/view/template/catalog/division_list.tpl",
+		"/C/xampp/htdocs/school/admin/controller/catalog/division.php",
+		"/C/xampp/htdocs/school/admin/model/catalog/division.php",
+		"/C/xampp/htdocs/school/admin/view/template/catalog/division_form.tpl",
+		"/C/xampp/htdocs/school/admin/config.php",
+		"/C/xampp/htdocs/school/admin/view/template/catalog/product_form.tpl",
+		"/C/xampp/htdocs/school/admin/language/en-gb/catalog/division.php",
+		"/C/xampp/htdocs/inventory/admin/index.php",
+		"/C/xampp/htdocs/inventory/admin/config.php",
+		"/C/xampp/htdocs/inventory/config.php",
+		"/C/Users/User/AppData/Local/Temp/fz3temp-1/navigation.php",
+		"/C/xampp/htdocs/yashkirti/application/views/backend/admin/income.php",
+		"/C/xampp/htdocs/yashkirti/application/views/backend/admin/student_add.php",
+		"/C/xampp/htdocs/yashkirti/application/views/backend/admin/student_information.php",
+		"/C/xampp/htdocs/yashkirti/application/views/backend/admin/modal_student_profile.php",
+		"/C/xampp/htdocs/yashkirti/application/views/backend/admin/modal_student_edit.php",
+		"/C/xampp/htdocs/yashkirti/application/views/backend/admin/noticeboard.php",
+		"/C/xampp/htdocs/yashkirti/application/views/backend/admin/manage_attendance.php",
+		"/C/xampp/htdocs/yashkirti/application/views/backend/admin/section_add.php",
+		"/C/xampp/htdocs/yashkirti/application/views/backend/admin/section.php",
+		"/C/xampp/htdocs/yashkirti/application/views/backend/admin/teacher.php",
+		"/C/xampp/htdocs/yashkirti/application/views/backend/admin/modal_teacher_edit.php",
+		"/C/xampp/htdocs/yashkirti/application/views/backend/admin/modal_teacher_add.php",
+		"/C/xampp/htdocs/yashkirti/application/controllers/Admin.php",
+		"/C/xampp/htdocs/yashkirti/application/views/backend/admin/navigation.php",
+		"/C/xampp/htdocs/yashkirti/application/models/Sms_model.php",
+		"/C/xampp/htdocs/yashkirti/application/views/backend/admin/sms_settings.php",
+		"/C/xampp/htdocs/yashkirti/application/views/backend/admin/student_payment.php",
+		"/C/Users/User/AppData/Local/Temp/fz3temp-1/index.php",
+		"/C/xampp/htdocs/yashkirti/application/views/backend/admin/modal_edit_class.php",
+		"/C/xampp/htdocs/yashkirti/application/views/backend/admin/class.php",
+		"/C/xampp/htdocs/yashkirti/assets/css/bootstrap.css",
+		"/C/Users/User/Downloads/accept_data.php",
+		"/C/Users/User/AppData/Local/Temp/fz3temp-1/index.html",
+		"/C/xampp/htdocs/yashkirti/application/views/backend/teacher/navigation.php",
+		"/C/xampp/htdocs/yashkirti/application/controllers/Teacher.php",
+		"/C/xampp/htdocs/yashkirti/application/views/backend/teacher/teacher.php",
+		"/C/xampp/htdocs/yashkirti/application/views/backend/index.php",
+		"/C/xampp/htdocs/yashkirti/application/views/backend/install.php",
+		"/C/xampp/htdocs/yashkirti/application/views/backend/teacher/student_information.php",
+		"/C/xampp/htdocs/yashkirti/application/views/backend/teacher/dashboard.php",
+		"/C/xampp/htdocs/yashkirti/application/views/backend/teacher/student_bulk_add.php",
+		"/C/xampp/htdocs/yashkirti/assets/css/neon-forms.css",
+		"/C/xampp/htdocs/yashkirti/application/views/backend/teacher/manage_attendance.php",
+		"/C/xampp/htdocs/yashkirti/application/views/backend/admin/system_settings.php",
+		"/C/xampp/htdocs/yashkirti/application/views/backend/admin/dashboard.php",
+		"/C/xampp/htdocs/yashkirti/application/views/backend/admin/manage_language.php",
+		"/C/xampp/htdocs/yashkirti/assets/css/neon-core.css",
+		"/C/xampp/htdocs/yashkirti/application/logs/index.html",
+		"/C/xampp/htdocs/yashkirti/application/libraries/index.html",
+		"/C/xampp/htdocs/yashkirti/application/language/english/index.html",
+		"/C/xampp/htdocs/yashkirti/application/hooks/index.html",
+		"/C/xampp/htdocs/yashkirti/application/controllers/Login.php",
+		"/C/xampp/htdocs/yashkirti/application/helpers/index.html",
+		"/C/xampp/htdocs/originalschool/software/application/views/backend/admin/navigation.php",
+		"/C/xampp/htdocs/originalschool/software/application/views/backend/parent/navigation.php"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"student",
+			"standard",
+			"sch",
+			"class",
+			"school",
+			"standard",
+			"class",
+			"standard",
+			"sc",
+			"standard",
+			"class",
+			"standard",
+			"school",
+			"class",
+			"school",
+			"schoolbus",
+			"school",
+			"standard",
+			"class",
+			"standard",
+			"class",
+			"school",
+			"standard",
+			"class",
+			"standard",
+			"school",
+			"max_input_time",
+			"upload_max_filesize",
+			"img",
+			"header-slide",
+			"h2",
+			"ul",
+			"design",
+			"single-portfolio.mix",
+			"single-portfolio",
+			"single-portfolio.mix",
+			"single-portfolio",
+			"single-portfolio mix design",
+			".a",
+			"/home/aaron/public_html/",
+			".six columns right-cols",
+			"six columns right-cols",
+			".col-xs-offset-4",
+			"Color",
+			"standard",
+			"Standard",
+			"standard",
+			"Standard",
+			"standard",
+			"Standard",
+			"left",
+			"fees_name",
+			"disable_mandatory",
+			"Brensa",
+			"getFees",
+			"sc_fees",
+			"filter_name",
+			"button-filter",
+			"                    ",
+			"student",
+			"combo_row",
+			"sc_attendance",
+			"medium",
+			"attendance",
+			"fees",
+			"attendances",
+			"attendance",
+			"Fee",
+			"attendance",
+			"\n					",
+			"attendance",
+			"Attendance",
+			"Fee",
+			"Attendance",
+			"attendance",
+			"Attendance",
+			"2",
+			"1",
+			"monthly_fees",
+			"extra_fees_key_",
+			"1",
+			"extra_fees_key_1",
+			"extra_fees_val_1",
+			"monthly_fees",
+			"name",
+			"ecc_code_no",
+			"input-ecc_code_no",
+			"<?",
+			"Student",
+			"student",
+			"Student",
+			"feess",
+			"Fees",
+			"Feess",
+			"Student",
+			"student",
+			"division",
+			"Division",
+			"getTotalStandards",
+			"Division",
+			"division",
+			"validate",
+			"Division",
+			"Add",
+			"Color",
+			"color",
+			"color\n",
+			"{\n",
+			"color",
+			"colo",
+			"color",
+			"		",
+			"color",
+			"Color",
+			"color",
+			"color_total",
+			"getColors",
+			"getTotalColors()",
+			"Color",
+			"color",
+			"Color",
+			"color",
+			"Color",
+			"color",
+			"Color",
+			"color",
+			"filter_division",
+			"color"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 269.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
