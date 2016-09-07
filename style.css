@@ -837,16 +837,27 @@ img{
 /*--------------------*/
 
 #service{
-	background-color: #F6F6F6;
+	background-color:  #fff;
 	float: left;
 	display: inline;
 	padding: 70px 0;
 	width: 100%;
 }
+
 .service_area{
 	display: inline;
 	float: left;
 	width: 100%;
+}
+.service-font{
+	color: #000;
+	font-size: 18px;
+
+}
+.service-font-one{
+	color: #000;
+	font-size: 18px;
+
 }
 .service-content{
 	display: inline;
@@ -934,6 +945,10 @@ img{
 	float: left;
 	width: 100%;
 }
+
+
+	
+
 .portfolio-menu ul{
 	display: inline-block;
 	width: 100%;
